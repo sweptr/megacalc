@@ -1,2 +1,2 @@
 # megacalc
-simple bu (soon) powerful cli calculator
+simple but (soon) powerful cli calculator
